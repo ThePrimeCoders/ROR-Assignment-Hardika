@@ -62,7 +62,7 @@ gem "haml-rails", "~> 2.0"
 # active admin for admin portal
 gem 'activeadmin', '~> 2.6.0'
 
-gem 'sidekiq', '~> 6.0', '>= 6.0.4'
+gem 'sidekiq', '~> 6.2'
 
 gem 'jwt'
 
